@@ -1,13 +1,13 @@
 # About me
--> Hi, I'm Aqua Tsukimura.
+Hi, I'm Aqua Tsukimura.
 
--> I'm currently 15 years old.
+I'm currently 15 years old.
 
--> I'm a full-stack developer
+I'm a full-stack developer
 
--> I'm an anime addict.
+I'm an anime addict.
 
--> There's not much to say about me.
+There's not much to say about me.
 
 # Languages and Tools
 [![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
