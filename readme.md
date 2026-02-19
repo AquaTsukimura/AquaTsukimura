@@ -1,11 +1,11 @@
-## About me
+# About me
 ### Hi, I'm Aqua Tsukimura.
 ### I'm currently 15 years old.
 ### I'm a full-stack developer
 ### I'm an anime addict.
 ### There's not much to say about me.
 
-## Languages and Tools
+# Languages and Tools
 [![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
 [![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
 [![CSharp](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/de-de/dotnet/csharp/)
