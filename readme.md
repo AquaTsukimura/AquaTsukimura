@@ -1,7 +1,7 @@
 # About me
 Hi, I'm Aqua Tsukimura.
 
-I'm currently 15 years old.
+I'm currently 14 years old.
 
 I'm a full-stack developer
 
